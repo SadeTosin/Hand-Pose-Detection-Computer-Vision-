@@ -12,51 +12,27 @@ Happy Viewing!
 
 <hr>
 
-![My Image](files/img17.png)
+![My Image](file/cv.png)
 
 <hr>
 
-![My Image](files/img19.png)
+![My Image](file/cv1.png)
 
 <hr>
 
-![My Image](files/img22.png)
+![My Image](file/cv2.png)
 
 <hr>
 
-![My Image](files/img23.png)
+![My Image](file/cv3.png)
 
 <hr>
 
-![My Image](files/img26.png)
+![My Image](file/cv4.png)
 
 <hr>
 
-![My Image](files/img27.png)
-
-<hr>
-
-![My Image](files/img28.png)
-
-<hr>
-
-![My Image](files/img30.png)
-
-<hr>
-
-![My Image](files/img31.png)
-
-<hr>
-
-![My Image](files/img32.png)
-
-<hr>
-
-![My Image](files/img34.png)
-
-<hr>
-
-![My Image](files/img36.png)
+![My Image](file/cv5.png)
 
 <hr>
 
