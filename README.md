@@ -16,23 +16,7 @@ Happy Viewing!
 
 <hr>
 
-![My Image](file/cv1.png)
-
-<hr>
-
 ![My Image](file/cv2.png)
-
-<hr>
-
-![My Image](file/cv3.png)
-
-<hr>
-
-![My Image](file/cv4.png)
-
-<hr>
-
-![My Image](file/cv5.png)
 
 <hr>
 
