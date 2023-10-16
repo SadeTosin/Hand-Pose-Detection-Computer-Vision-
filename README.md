@@ -7,7 +7,7 @@ Real-Time Detection: Discover a program that can analyze video streams in real t
 
 Gesture Recognition: Unlock the potential to recognize specific hand gestures, allowing you to design applications that respond to dynamic interactions.
 
-Pose Estimation: Dive deep into the realm of pose estimation, understanding how the program identifies and tracks various body positions.
+Pose Estimation: Dive deep into the realm of pose estimation, understanding how the program identifies and tracks various body positions. 
 Happy Viewing!
 
 <hr>
